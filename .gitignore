@@ -1,0 +1,6 @@
+.idea/
+.gradle/
+build/
+
+# OS X stuff
+.DS_Store
